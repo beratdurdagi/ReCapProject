@@ -28,14 +28,33 @@ namespace Business.Concrete
 
         public IResult Add(Car car)
         {
-            _carDal.Add(car);
+
+            if(car.CarName.Length > 2 && car.DailyPrice >0 ) {
+                _carDal.Add(car);
+                return new SuccessResult(Messages.ProductAdded);
+            }
+            else
+            {
+                return new ErrorResult("Product Eklenemedi");
+            }
+         
         }
 
-        public void Delete(Car car)
+        public IResult Delete(Car car)
         {
             _carDal.Delete(car);
+
+            return new SuccessResult(Messages.ProductDeleted);
         }
 
+
+
+        public IResult Update(Car car)
+        {
+            _carDal.Update(car);
+            return new SuccessResult(Messages.ProductDeleted);
+        }
+        
         public IDataResult<List<Car>> GetAll()
         {
 
@@ -48,13 +67,22 @@ namespace Business.Concrete
             
 
             var result = _carDal.Get((p) => p.Id == id);
-            return new SuccessDataResult<List<Car>>(result, Messages.ProductsListed);
+            return new SuccessDataResult<Car>(result, Messages.ProductsListed);
 
         }
 
-        public IResult Update(Car car)
+        public IDataResult<List<Car>> GetCarsByBrandId(int brandId)
         {
-            throw new NotImplementedException();
+          var result = _carDal.GetAll((p)=> p.BrandId == brandId).ToList();
+         return new SuccessDataResult<List<Car>>(result, Messages.ProductsListed);
+
+
+        }
+
+        public IDataResult<List<Car>> GetCarsByColorId(int colorId)
+        {
+            var result = _carDal.GetAll((p) => p.ColorId == colorId).ToList();
+            return new SuccessDataResult<List<Car>>(result, Messages.ProductsListed);
         }
     }
 }
