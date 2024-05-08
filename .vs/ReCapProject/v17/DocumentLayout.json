@@ -1,0 +1,334 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\karal\\Desktop\\dotnt\\WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2161EF89-5874-4983-A235-0A743ADABF59}|BusinessLayer\\Business.csproj|c:\\users\\karal\\desktop\\dotnt\\webapi\\businesslayer\\constants\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2161EF89-5874-4983-A235-0A743ADABF59}|BusinessLayer\\Business.csproj|solutionrelative:businesslayer\\constants\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2161EF89-5874-4983-A235-0A743ADABF59}|BusinessLayer\\Business.csproj|c:\\users\\karal\\desktop\\dotnt\\webapi\\businesslayer\\abstract\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2161EF89-5874-4983-A235-0A743ADABF59}|BusinessLayer\\Business.csproj|solutionrelative:businesslayer\\abstract\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4290B14B-2F9A-411D-9028-A45BE22638F6}|Core\\Core.csproj|c:\\users\\karal\\desktop\\dotnt\\webapi\\core\\dataaccess\\ientityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4290B14B-2F9A-411D-9028-A45BE22638F6}|Core\\Core.csproj|solutionrelative:core\\dataaccess\\ientityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2161EF89-5874-4983-A235-0A743ADABF59}|BusinessLayer\\Business.csproj|c:\\users\\karal\\desktop\\dotnt\\webapi\\businesslayer\\concrete\\carmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2161EF89-5874-4983-A235-0A743ADABF59}|BusinessLayer\\Business.csproj|solutionrelative:businesslayer\\concrete\\carmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4290B14B-2F9A-411D-9028-A45BE22638F6}|Core\\Core.csproj|c:\\users\\karal\\desktop\\dotnt\\webapi\\core\\utilities\\results\\errordataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4290B14B-2F9A-411D-9028-A45BE22638F6}|Core\\Core.csproj|solutionrelative:core\\utilities\\results\\errordataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4290B14B-2F9A-411D-9028-A45BE22638F6}|Core\\Core.csproj|c:\\users\\karal\\desktop\\dotnt\\webapi\\core\\utilities\\results\\errorresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4290B14B-2F9A-411D-9028-A45BE22638F6}|Core\\Core.csproj|solutionrelative:core\\utilities\\results\\errorresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4290B14B-2F9A-411D-9028-A45BE22638F6}|Core\\Core.csproj|c:\\users\\karal\\desktop\\dotnt\\webapi\\core\\utilities\\results\\successresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4290B14B-2F9A-411D-9028-A45BE22638F6}|Core\\Core.csproj|solutionrelative:core\\utilities\\results\\successresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4290B14B-2F9A-411D-9028-A45BE22638F6}|Core\\Core.csproj|c:\\users\\karal\\desktop\\dotnt\\webapi\\core\\utilities\\results\\successdataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4290B14B-2F9A-411D-9028-A45BE22638F6}|Core\\Core.csproj|solutionrelative:core\\utilities\\results\\successdataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4290B14B-2F9A-411D-9028-A45BE22638F6}|Core\\Core.csproj|c:\\users\\karal\\desktop\\dotnt\\webapi\\core\\utilities\\results\\dataresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4290B14B-2F9A-411D-9028-A45BE22638F6}|Core\\Core.csproj|solutionrelative:core\\utilities\\results\\dataresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4290B14B-2F9A-411D-9028-A45BE22638F6}|Core\\Core.csproj|c:\\users\\karal\\desktop\\dotnt\\webapi\\core\\utilities\\results\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4290B14B-2F9A-411D-9028-A45BE22638F6}|Core\\Core.csproj|solutionrelative:core\\utilities\\results\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4290B14B-2F9A-411D-9028-A45BE22638F6}|Core\\Core.csproj|c:\\users\\karal\\desktop\\dotnt\\webapi\\core\\utilities\\results\\iresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4290B14B-2F9A-411D-9028-A45BE22638F6}|Core\\Core.csproj|solutionrelative:core\\utilities\\results\\iresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB90698-2221-4395-9860-7FF9104B1A8F}|DataAccess\\DataAccess.csproj|c:\\users\\karal\\desktop\\dotnt\\webapi\\dataaccess\\concrete\\efcardal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB90698-2221-4395-9860-7FF9104B1A8F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\efcardal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB90698-2221-4395-9860-7FF9104B1A8F}|DataAccess\\DataAccess.csproj|c:\\users\\karal\\desktop\\dotnt\\webapi\\dataaccess\\concrete\\recapcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB90698-2221-4395-9860-7FF9104B1A8F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\recapcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65792BD8-73C2-44F2-8178-4C9A320599AD}|Entities\\Entities.csproj|c:\\users\\karal\\desktop\\dotnt\\webapi\\entities\\concrete\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65792BD8-73C2-44F2-8178-4C9A320599AD}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB90698-2221-4395-9860-7FF9104B1A8F}|DataAccess\\DataAccess.csproj|c:\\users\\karal\\desktop\\dotnt\\webapi\\dataaccess\\abstract\\icardal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB90698-2221-4395-9860-7FF9104B1A8F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\abstract\\icardal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4290B14B-2F9A-411D-9028-A45BE22638F6}|Core\\Core.csproj|c:\\users\\karal\\desktop\\dotnt\\webapi\\core\\entities\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4290B14B-2F9A-411D-9028-A45BE22638F6}|Core\\Core.csproj|solutionrelative:core\\entities\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4290B14B-2F9A-411D-9028-A45BE22638F6}|Core\\Core.csproj|c:\\users\\karal\\desktop\\dotnt\\webapi\\core\\dataaccess\\entityframework\\efrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4290B14B-2F9A-411D-9028-A45BE22638F6}|Core\\Core.csproj|solutionrelative:core\\dataaccess\\entityframework\\efrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65792BD8-73C2-44F2-8178-4C9A320599AD}|Entities\\Entities.csproj|c:\\users\\karal\\desktop\\dotnt\\webapi\\entities\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{65792BD8-73C2-44F2-8178-4C9A320599AD}|Entities\\Entities.csproj|solutionrelative:entities\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Messages.cs",
+              "DocumentMoniker": "C:\\Users\\karal\\Desktop\\dotnt\\WebApi\\BusinessLayer\\Constants\\Messages.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Constants\\Messages.cs",
+              "ToolTip": "C:\\Users\\karal\\Desktop\\dotnt\\WebApi\\BusinessLayer\\Constants\\Messages.cs",
+              "RelativeToolTip": "BusinessLayer\\Constants\\Messages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T17:26:06.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorDataResult.cs",
+              "DocumentMoniker": "C:\\Users\\karal\\Desktop\\dotnt\\WebApi\\Core\\Utilities\\Results\\ErrorDataResult.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Results\\ErrorDataResult.cs",
+              "ToolTip": "C:\\Users\\karal\\Desktop\\dotnt\\WebApi\\Core\\Utilities\\Results\\ErrorDataResult.cs",
+              "RelativeToolTip": "Core\\Utilities\\Results\\ErrorDataResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T17:19:11.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorResult.cs",
+              "DocumentMoniker": "C:\\Users\\karal\\Desktop\\dotnt\\WebApi\\Core\\Utilities\\Results\\ErrorResult.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Results\\ErrorResult.cs",
+              "ToolTip": "C:\\Users\\karal\\Desktop\\dotnt\\WebApi\\Core\\Utilities\\Results\\ErrorResult.cs",
+              "RelativeToolTip": "Core\\Utilities\\Results\\ErrorResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T17:18:43.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SuccessResult.cs",
+              "DocumentMoniker": "C:\\Users\\karal\\Desktop\\dotnt\\WebApi\\Core\\Utilities\\Results\\SuccessResult.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Results\\SuccessResult.cs",
+              "ToolTip": "C:\\Users\\karal\\Desktop\\dotnt\\WebApi\\Core\\Utilities\\Results\\SuccessResult.cs",
+              "RelativeToolTip": "Core\\Utilities\\Results\\SuccessResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T17:18:21.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SuccessDataResult.cs",
+              "DocumentMoniker": "C:\\Users\\karal\\Desktop\\dotnt\\WebApi\\Core\\Utilities\\Results\\SuccessDataResult.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Results\\SuccessDataResult.cs",
+              "ToolTip": "C:\\Users\\karal\\Desktop\\dotnt\\WebApi\\Core\\Utilities\\Results\\SuccessDataResult.cs",
+              "RelativeToolTip": "Core\\Utilities\\Results\\SuccessDataResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T17:17:51.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataResults.cs",
+              "DocumentMoniker": "C:\\Users\\karal\\Desktop\\dotnt\\WebApi\\Core\\Utilities\\Results\\DataResults.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Results\\DataResults.cs",
+              "ToolTip": "C:\\Users\\karal\\Desktop\\dotnt\\WebApi\\Core\\Utilities\\Results\\DataResults.cs",
+              "RelativeToolTip": "Core\\Utilities\\Results\\DataResults.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T17:16:30.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\karal\\Desktop\\dotnt\\WebApi\\Core\\Utilities\\Results\\Result.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Results\\Result.cs",
+              "ToolTip": "C:\\Users\\karal\\Desktop\\dotnt\\WebApi\\Core\\Utilities\\Results\\Result.cs",
+              "RelativeToolTip": "Core\\Utilities\\Results\\Result.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T17:15:34.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IResult.cs",
+              "DocumentMoniker": "C:\\Users\\karal\\Desktop\\dotnt\\WebApi\\Core\\Utilities\\Results\\IResult.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Results\\IResult.cs",
+              "ToolTip": "C:\\Users\\karal\\Desktop\\dotnt\\WebApi\\Core\\Utilities\\Results\\IResult.cs",
+              "RelativeToolTip": "Core\\Utilities\\Results\\IResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T17:13:56.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarManager.cs",
+              "DocumentMoniker": "C:\\Users\\karal\\Desktop\\dotnt\\WebApi\\BusinessLayer\\Concrete\\CarManager.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Concrete\\CarManager.cs",
+              "ToolTip": "C:\\Users\\karal\\Desktop\\dotnt\\WebApi\\BusinessLayer\\Concrete\\CarManager.cs",
+              "RelativeToolTip": "BusinessLayer\\Concrete\\CarManager.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowDEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:58:22.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICarService.cs",
+              "DocumentMoniker": "C:\\Users\\karal\\Desktop\\dotnt\\WebApi\\BusinessLayer\\Abstract\\ICarService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Abstract\\ICarService.cs",
+              "ToolTip": "C:\\Users\\karal\\Desktop\\dotnt\\WebApi\\BusinessLayer\\Abstract\\ICarService.cs",
+              "RelativeToolTip": "BusinessLayer\\Abstract\\ICarService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:58:09.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\karal\\Desktop\\dotnt\\WebApi\\Entities\\Concrete\\Car.cs",
+              "RelativeDocumentMoniker": "Entities\\Concrete\\Car.cs",
+              "ToolTip": "C:\\Users\\karal\\Desktop\\dotnt\\WebApi\\Entities\\Concrete\\Car.cs",
+              "RelativeToolTip": "Entities\\Concrete\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:53:49.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEntityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\karal\\Desktop\\dotnt\\WebApi\\Core\\DataAccess\\IEntityRepository.cs",
+              "RelativeDocumentMoniker": "Core\\DataAccess\\IEntityRepository.cs",
+              "ToolTip": "C:\\Users\\karal\\Desktop\\dotnt\\WebApi\\Core\\DataAccess\\IEntityRepository.cs",
+              "RelativeToolTip": "Core\\DataAccess\\IEntityRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAcwBEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:46:39.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\karal\\Desktop\\dotnt\\WebApi\\Core\\Entities\\IEntity.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\IEntity.cs",
+              "ToolTip": "C:\\Users\\karal\\Desktop\\dotnt\\WebApi\\Core\\Entities\\IEntity.cs",
+              "RelativeToolTip": "Core\\Entities\\IEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:43:21.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EfRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\karal\\Desktop\\dotnt\\WebApi\\Core\\DataAccess\\EntityFramework\\EfRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Core\\DataAccess\\EntityFramework\\EfRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\karal\\Desktop\\dotnt\\WebApi\\Core\\DataAccess\\EntityFramework\\EfRepositoryBase.cs",
+              "RelativeToolTip": "Core\\DataAccess\\EntityFramework\\EfRepositoryBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:41:37.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Entities",
+              "DocumentMoniker": "C:\\Users\\karal\\Desktop\\dotnt\\WebApi\\Entities\\Entities.csproj",
+              "RelativeDocumentMoniker": "Entities\\Entities.csproj",
+              "ToolTip": "C:\\Users\\karal\\Desktop\\dotnt\\WebApi\\Entities\\Entities.csproj",
+              "RelativeToolTip": "Entities\\Entities.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-07T16:32:14.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EfCarDal.cs",
+              "DocumentMoniker": "C:\\Users\\karal\\Desktop\\dotnt\\WebApi\\DataAccess\\Concrete\\EfCarDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\EfCarDal.cs",
+              "ToolTip": "C:\\Users\\karal\\Desktop\\dotnt\\WebApi\\DataAccess\\Concrete\\EfCarDal.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\EfCarDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T15:49:16.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReCapContext.cs",
+              "DocumentMoniker": "C:\\Users\\karal\\Desktop\\dotnt\\WebApi\\DataAccess\\Concrete\\ReCapContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\ReCapContext.cs",
+              "ToolTip": "C:\\Users\\karal\\Desktop\\dotnt\\WebApi\\DataAccess\\Concrete\\ReCapContext.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\ReCapContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T14:50:58.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICarDal.cs",
+              "DocumentMoniker": "C:\\Users\\karal\\Desktop\\dotnt\\WebApi\\DataAccess\\Abstract\\ICarDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Abstract\\ICarDal.cs",
+              "ToolTip": "C:\\Users\\karal\\Desktop\\dotnt\\WebApi\\DataAccess\\Abstract\\ICarDal.cs",
+              "RelativeToolTip": "DataAccess\\Abstract\\ICarDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T14:47:41.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
